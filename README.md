@@ -1,14 +1,16 @@
 <h1 align="center">:file_cabinet: README.md</h1>
 
 ## :memo: Descrição
-
+COnversor de planilha do Excel para HTML e PDF
 
 ## :books: Funcionalidades
-* <b> </b>
-
+* <b>Ler dados: </b> Ler os dados da planilha informada por parâmetro
+* <b>Processar dados: </b> Processa os dados separando as informações da planilha
+* <b>Converter dados em HTML: </b> Após dados processados, converte em uma tabela  HTML e cria o arquivo final.
+* <b>Converter dados em PDF: </b> Após dados processados, converte em um arquivo PDF e cria o arquivo final.
 
 ## :wrench: Tecnologias utilizadas
-* Node.j
+* Node.jS
 * EJS
 * HTML
 
