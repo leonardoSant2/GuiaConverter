@@ -1,7 +1,7 @@
 <h1 align="center">:file_cabinet: README.md</h1>
 
 ## :memo: Descrição
-COnversor de planilha do Excel para HTML e PDF
+Conversor de planilha do Excel para HTML e PDF
 
 ## :books: Funcionalidades
 * <b>Ler dados: </b> Ler os dados da planilha informada por parâmetro
